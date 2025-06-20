@@ -1,0 +1,27 @@
+[
+  {
+    "id": 2,
+    "title": "Cooking Tips",
+    "tags": [
+      "food"
+    ],
+    "author": "Bob"
+  },
+  {
+    "id": 3,
+    "title": "Sports Weekly",
+    "tags": [
+      "sport"
+    ],
+    "author": "Charlie"
+  },
+  {
+    "id": 4,
+    "title": "New Post",
+    "tags": [
+      "news",
+      "sport"
+    ],
+    "author": "Denis"
+  }
+]
